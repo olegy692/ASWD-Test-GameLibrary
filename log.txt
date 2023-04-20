@@ -1,0 +1,939 @@
+4/17/2023 4:58:32 PM: World with X: 20 and Y: 20 has been created
+4/17/2023 4:58:32 PM: Player with name: Player, health: 100, damage: 2, energy: 30 is created
+4/17/2023 4:58:32 PM: Enemy with name: Enemy, health: 100, damage: 10 is created
+4/17/2023 4:58:32 PM: Added a Player at position (2, 2).
+4/17/2023 4:58:32 PM: Added a Enemy at position (15, 15).
+4/17/2023 4:58:32 PM: Added an attack item knife at position (17, 13).
+4/17/2023 4:58:32 PM: Added an attack item sword at position (15, 12).
+4/17/2023 4:58:32 PM: Added an attack item mace at position (2, 14).
+4/17/2023 4:58:32 PM: Added an attack item knife at position (1, 15).
+4/17/2023 4:58:32 PM: Added an attack item sword at position (5, 8).
+4/17/2023 4:58:32 PM: Added an attack item mace at position (4, 14).
+4/17/2023 4:58:32 PM: Added a world object wooden shield at position (3, 5).
+4/17/2023 4:58:32 PM: Added a world object stone shield at position (5, 15).
+4/17/2023 4:58:32 PM: Added a world object iron shield at position (1, 14).
+4/17/2023 4:58:32 PM: Added a world object wooden shield at position (15, 17).
+4/17/2023 4:58:32 PM: Added a world object stone shield at position (10, 10).
+4/17/2023 4:58:32 PM: Added a world object iron shield at position (16, 15).
+4/17/2023 4:58:32 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:33 PM: Player with name: Player moved to new position (2, 3)
+4/17/2023 4:58:34 PM: Enemy's turn.
+4/17/2023 4:58:34 PM: Enemy picked up iron shield.
+4/17/2023 4:58:34 PM: Removed an item at position (16, 15).
+4/17/2023 4:58:34 PM: Enemy picked up iron shield.
+4/17/2023 4:58:34 PM: Enemy moved to new position (15, 16).
+4/17/2023 4:58:35 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:35 PM: Player with name: Player moved to new position (3, 3)
+4/17/2023 4:58:36 PM: Enemy's turn.
+4/17/2023 4:58:36 PM: Enemy picked up wooden shield.
+4/17/2023 4:58:36 PM: Removed an item at position (15, 17).
+4/17/2023 4:58:36 PM: Enemy picked up wooden shield.
+4/17/2023 4:58:36 PM: Enemy moved to new position (15, 15).
+4/17/2023 4:58:36 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:37 PM: Player with name: Player moved to new position (3, 4)
+4/17/2023 4:58:38 PM: Enemy's turn.
+4/17/2023 4:58:38 PM: Enemy moved to new position (14, 15).
+4/17/2023 4:58:38 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:39 PM: Player with name: Player moved to new position (4, 4)
+4/17/2023 4:58:39 PM: Enemy's turn.
+4/17/2023 4:58:39 PM: Enemy moved to new position (14, 14).
+4/17/2023 4:58:40 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:40 PM: Player with name: Player moved to new position (5, 4)
+4/17/2023 4:58:41 PM: Enemy's turn.
+4/17/2023 4:58:41 PM: Enemy moved to new position (14, 13).
+4/17/2023 4:58:41 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:42 PM: Player with name: Player moved to new position (5, 5)
+4/17/2023 4:58:42 PM: Enemy's turn.
+4/17/2023 4:58:42 PM: Enemy moved to new position (14, 14).
+4/17/2023 4:58:43 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:44 PM: Player with name: Player moved to new position (5, 6)
+4/17/2023 4:58:45 PM: Enemy's turn.
+4/17/2023 4:58:45 PM: Enemy moved to new position (14, 15).
+4/17/2023 4:58:46 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:46 PM: Player with name: Player moved to new position (5, 7)
+4/17/2023 4:58:46 PM: Enemy's turn.
+4/17/2023 4:58:46 PM: Enemy moved to new position (15, 15).
+4/17/2023 4:58:47 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:47 PM: Player with name: Player moved to new position (6, 7)
+4/17/2023 4:58:48 PM: Enemy's turn.
+4/17/2023 4:58:48 PM: Enemy moved to new position (15, 14).
+4/17/2023 4:58:49 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:49 PM: Enemy's turn.
+4/17/2023 4:58:49 PM: Enemy moved to new position (16, 14).
+4/17/2023 4:58:50 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:50 PM: Player with name: Player moved to new position (6, 8)
+4/17/2023 4:58:51 PM: Enemy's turn.
+4/17/2023 4:58:51 PM: Enemy moved to new position (16, 15).
+4/17/2023 4:58:52 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/17/2023 4:58:52 PM: You picked up sword, + 18 damage.
+4/17/2023 4:58:52 PM: Removed an item at position (5, 8).
+4/17/2023 4:58:52 PM: Enemy's turn.
+4/17/2023 4:58:52 PM: Enemy moved to new position (17, 15).
+4/17/2023 4:58:53 PM: Player's turn. Choose direction (w, a, s, d), press f to attack or t to use magic attack within 5cells: 
+4/19/2023 2:28:33 PM: World with X: 20 and Y: 20 has been created
+4/19/2023 2:28:33 PM: Player with name: Player, health: 100, damage: 2, energy: 30 is created
+4/19/2023 2:28:33 PM: Enemy with name: Enemy, health: 100, damage: 10 is created
+4/19/2023 2:28:33 PM: Added a Player at position (2, 2).
+4/19/2023 2:28:33 PM: Added a Enemy at position (15, 15).
+4/19/2023 2:28:33 PM: Added an attack item knife at position (3, 4).
+4/19/2023 2:28:33 PM: Added an attack item sword at position (9, 7).
+4/19/2023 2:28:33 PM: Added an attack item mace at position (14, 7).
+4/19/2023 2:28:33 PM: Added an attack item knife at position (4, 11).
+4/19/2023 2:28:33 PM: Added an attack item sword at position (15, 11).
+4/19/2023 2:28:33 PM: Added an attack item mace at position (5, 3).
+4/19/2023 2:28:33 PM: Added a world object wooden shield at position (4, 2).
+4/19/2023 2:28:33 PM: Added a world object stone shield at position (11, 3).
+4/19/2023 2:28:33 PM: Added a world object iron shield at position (18, 8).
+4/19/2023 2:28:33 PM: Added a world object wooden shield at position (13, 18).
+4/19/2023 2:28:33 PM: Added a world object stone shield at position (8, 18).
+4/19/2023 2:28:33 PM: Added a world object iron shield at position (3, 9).
+4/19/2023 2:28:33 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack or 't' to use magic attack within 5 cells: 
+4/19/2023 2:30:05 PM: World with X: 20 and Y: 20 has been created
+4/19/2023 2:30:05 PM: Player with name: Player, health: 100, damage: 2, energy: 30 is created
+4/19/2023 2:30:05 PM: Enemy with name: Enemy, health: 100, damage: 10 is created
+4/19/2023 2:30:05 PM: Added a Player at position (2, 2).
+4/19/2023 2:30:05 PM: Added a Enemy at position (15, 15).
+4/19/2023 2:30:05 PM: Added an attack item knife at position (12, 6).
+4/19/2023 2:30:05 PM: Added an attack item sword at position (16, 4).
+4/19/2023 2:30:05 PM: Added an attack item mace at position (18, 3).
+4/19/2023 2:30:05 PM: Added an attack item knife at position (12, 7).
+4/19/2023 2:30:05 PM: Added an attack item sword at position (4, 14).
+4/19/2023 2:30:05 PM: Added an attack item mace at position (6, 6).
+4/19/2023 2:30:05 PM: Added a world object wooden shield at position (3, 1).
+4/19/2023 2:30:05 PM: Added a world object stone shield at position (3, 15).
+4/19/2023 2:30:05 PM: Added a world object iron shield at position (4, 7).
+4/19/2023 2:30:05 PM: Added a world object wooden shield at position (14, 15).
+4/19/2023 2:30:05 PM: Added a world object stone shield at position (16, 11).
+4/19/2023 2:30:05 PM: Added a world object iron shield at position (11, 4).
+4/19/2023 2:30:05 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack or 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:30:25 PM: World with X: 20 and Y: 20 has been created
+4/19/2023 2:30:25 PM: Player with name: Player, health: 100, damage: 2, energy: 30 is created
+4/19/2023 2:30:25 PM: Enemy with name: Enemy, health: 100, damage: 10 is created
+4/19/2023 2:30:25 PM: Added a Player at position (2, 2).
+4/19/2023 2:30:25 PM: Added a Enemy at position (15, 15).
+4/19/2023 2:30:25 PM: Added an attack item knife at position (13, 18).
+4/19/2023 2:30:25 PM: Added an attack item sword at position (8, 18).
+4/19/2023 2:30:25 PM: Added an attack item mace at position (3, 14).
+4/19/2023 2:30:25 PM: Added an attack item knife at position (1, 2).
+4/19/2023 2:30:25 PM: Added an attack item sword at position (14, 15).
+4/19/2023 2:30:25 PM: Added an attack item mace at position (7, 1).
+4/19/2023 2:30:25 PM: Added a world object wooden shield at position (9, 6).
+4/19/2023 2:30:25 PM: Added a world object stone shield at position (9, 16).
+4/19/2023 2:30:25 PM: Added a world object iron shield at position (1, 13).
+4/19/2023 2:30:25 PM: Added a world object wooden shield at position (16, 17).
+4/19/2023 2:30:25 PM: Added a world object stone shield at position (17, 16).
+4/19/2023 2:30:25 PM: Added a world object iron shield at position (2, 11).
+4/19/2023 2:30:25 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack or 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:30:50 PM: World with X: 20 and Y: 20 has been created
+4/19/2023 2:30:50 PM: Player with name: Player, health: 100, damage: 2, energy: 30 is created
+4/19/2023 2:30:50 PM: Enemy with name: Enemy, health: 100, damage: 10 is created
+4/19/2023 2:30:50 PM: Added a Player at position (2, 2).
+4/19/2023 2:30:50 PM: Added a Enemy at position (15, 15).
+4/19/2023 2:30:50 PM: Added an attack item knife at position (9, 18).
+4/19/2023 2:30:50 PM: Added an attack item sword at position (2, 8).
+4/19/2023 2:30:50 PM: Added an attack item mace at position (12, 1).
+4/19/2023 2:30:50 PM: Added an attack item knife at position (14, 18).
+4/19/2023 2:30:50 PM: Added an attack item sword at position (18, 17).
+4/19/2023 2:30:50 PM: Added an attack item mace at position (15, 7).
+4/19/2023 2:30:50 PM: Added a world object wooden shield at position (18, 1).
+4/19/2023 2:30:50 PM: Added a world object stone shield at position (1, 9).
+4/19/2023 2:30:50 PM: Added a world object iron shield at position (18, 17).
+4/19/2023 2:30:50 PM: Added a world object wooden shield at position (13, 10).
+4/19/2023 2:30:50 PM: Added a world object stone shield at position (2, 15).
+4/19/2023 2:30:50 PM: Added a world object iron shield at position (9, 18).
+4/19/2023 2:30:50 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack, 
+ press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:30:59 PM: World with X: 20 and Y: 20 has been created
+4/19/2023 2:30:59 PM: Player with name: Player, health: 100, damage: 2, energy: 30 is created
+4/19/2023 2:30:59 PM: Enemy with name: Enemy, health: 100, damage: 10 is created
+4/19/2023 2:30:59 PM: Added a Player at position (2, 2).
+4/19/2023 2:30:59 PM: Added a Enemy at position (15, 15).
+4/19/2023 2:30:59 PM: Added an attack item knife at position (11, 4).
+4/19/2023 2:30:59 PM: Added an attack item sword at position (17, 14).
+4/19/2023 2:30:59 PM: Added an attack item mace at position (7, 14).
+4/19/2023 2:30:59 PM: Added an attack item knife at position (8, 5).
+4/19/2023 2:30:59 PM: Added an attack item sword at position (15, 12).
+4/19/2023 2:30:59 PM: Added an attack item mace at position (17, 5).
+4/19/2023 2:30:59 PM: Added a world object wooden shield at position (6, 2).
+4/19/2023 2:30:59 PM: Added a world object stone shield at position (8, 17).
+4/19/2023 2:30:59 PM: Added a world object iron shield at position (7, 18).
+4/19/2023 2:30:59 PM: Added a world object wooden shield at position (3, 8).
+4/19/2023 2:30:59 PM: Added a world object stone shield at position (14, 2).
+4/19/2023 2:30:59 PM: Added a world object iron shield at position (16, 8).
+4/19/2023 2:30:59 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+ press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:31:08 PM: World with X: 20 and Y: 20 has been created
+4/19/2023 2:31:08 PM: Player with name: Player, health: 100, damage: 2, energy: 30 is created
+4/19/2023 2:31:08 PM: Enemy with name: Enemy, health: 100, damage: 10 is created
+4/19/2023 2:31:08 PM: Added a Player at position (2, 2).
+4/19/2023 2:31:08 PM: Added a Enemy at position (15, 15).
+4/19/2023 2:31:08 PM: Added an attack item knife at position (5, 5).
+4/19/2023 2:31:08 PM: Added an attack item sword at position (17, 18).
+4/19/2023 2:31:08 PM: Added an attack item mace at position (14, 10).
+4/19/2023 2:31:08 PM: Added an attack item knife at position (9, 5).
+4/19/2023 2:31:08 PM: Added an attack item sword at position (10, 13).
+4/19/2023 2:31:08 PM: Added an attack item mace at position (9, 7).
+4/19/2023 2:31:08 PM: Added a world object wooden shield at position (9, 1).
+4/19/2023 2:31:08 PM: Added a world object stone shield at position (3, 15).
+4/19/2023 2:31:08 PM: Added a world object iron shield at position (1, 18).
+4/19/2023 2:31:08 PM: Added a world object wooden shield at position (5, 1).
+4/19/2023 2:31:08 PM: Added a world object stone shield at position (11, 16).
+4/19/2023 2:31:08 PM: Added a world object iron shield at position (3, 6).
+4/19/2023 2:31:08 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:12 PM: Player with name: Player moved to new position (3, 2)
+4/19/2023 2:32:12 PM: Enemy's turn.
+4/19/2023 2:32:12 PM: Enemy moved to new position (14, 15).
+4/19/2023 2:32:13 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:14 PM: Player with name: Player moved to new position (4, 2)
+4/19/2023 2:32:14 PM: Enemy's turn.
+4/19/2023 2:32:14 PM: Enemy moved to new position (14, 16).
+4/19/2023 2:32:15 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:22 PM: Player with name: Player moved to new position (5, 2)
+4/19/2023 2:32:22 PM: Enemy's turn.
+4/19/2023 2:32:22 PM: Enemy moved to new position (14, 15).
+4/19/2023 2:32:23 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:26 PM: Enemy's turn.
+4/19/2023 2:32:26 PM: Enemy moved to new position (15, 15).
+4/19/2023 2:32:27 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:27 PM: You picked up wooden shield, + 2 defence.
+4/19/2023 2:32:27 PM: Removed an item at position (5, 1).
+4/19/2023 2:32:27 PM: Player picked up wooden shield.
+4/19/2023 2:32:27 PM: Enemy's turn.
+4/19/2023 2:32:27 PM: Enemy moved to new position (15, 16).
+4/19/2023 2:32:28 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:28 PM: Player with name: Player moved to new position (5, 3)
+4/19/2023 2:32:28 PM: Enemy's turn.
+4/19/2023 2:32:28 PM: Enemy moved to new position (15, 17).
+4/19/2023 2:32:29 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:29 PM: Player with name: Player moved to new position (5, 4)
+4/19/2023 2:32:30 PM: Enemy's turn.
+4/19/2023 2:32:30 PM: Enemy moved to new position (14, 17).
+4/19/2023 2:32:30 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:31 PM: Enemy's turn.
+4/19/2023 2:32:31 PM: Enemy moved to new position (15, 17).
+4/19/2023 2:32:31 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:31 PM: You picked up knife, + 13 damage.
+4/19/2023 2:32:31 PM: Removed an item at position (5, 5).
+4/19/2023 2:32:31 PM: Player picked up knife.
+4/19/2023 2:32:32 PM: Enemy's turn.
+4/19/2023 2:32:32 PM: Enemy moved to new position (16, 17).
+4/19/2023 2:32:32 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:33 PM: Player with name: Player moved to new position (6, 4)
+4/19/2023 2:32:34 PM: Enemy's turn.
+4/19/2023 2:32:34 PM: Enemy moved to new position (15, 17).
+4/19/2023 2:32:34 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:35 PM: Player with name: Player moved to new position (6, 5)
+4/19/2023 2:32:35 PM: Enemy's turn.
+4/19/2023 2:32:35 PM: Enemy moved to new position (14, 17).
+4/19/2023 2:32:36 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:36 PM: Player with name: Player moved to new position (7, 5)
+4/19/2023 2:32:36 PM: Enemy's turn.
+4/19/2023 2:32:36 PM: Enemy moved to new position (14, 18).
+4/19/2023 2:32:37 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:37 PM: Player with name: Player moved to new position (8, 5)
+4/19/2023 2:32:38 PM: Enemy's turn.
+4/19/2023 2:32:38 PM: Enemy moved to new position (13, 18).
+4/19/2023 2:32:39 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:39 PM: You picked up knife, + 13 damage.
+4/19/2023 2:32:39 PM: Removed an item at position (9, 5).
+4/19/2023 2:32:39 PM: Player picked up knife.
+4/19/2023 2:32:39 PM: Enemy's turn.
+4/19/2023 2:32:40 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:40 PM: Player with name: Player moved to new position (8, 6)
+4/19/2023 2:32:41 PM: Enemy's turn.
+4/19/2023 2:32:41 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:41 PM: Player with name: Player moved to new position (8, 7)
+4/19/2023 2:32:42 PM: Enemy's turn.
+4/19/2023 2:32:42 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:42 PM: You picked up mace, + 8 damage.
+4/19/2023 2:32:42 PM: Removed an item at position (9, 7).
+4/19/2023 2:32:42 PM: Player picked up mace.
+4/19/2023 2:32:43 PM: Enemy's turn.
+4/19/2023 2:32:44 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:44 PM: Player with name: Player moved to new position (8, 8)
+4/19/2023 2:32:44 PM: Enemy's turn.
+4/19/2023 2:32:44 PM: Enemy moved to new position (12, 18).
+4/19/2023 2:32:45 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:45 PM: Player with name: Player moved to new position (8, 9)
+4/19/2023 2:32:45 PM: Enemy's turn.
+4/19/2023 2:32:45 PM: Enemy moved to new position (13, 18).
+4/19/2023 2:32:46 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:46 PM: Player with name: Player moved to new position (8, 10)
+4/19/2023 2:32:47 PM: Enemy's turn.
+4/19/2023 2:32:47 PM: Enemy moved to new position (14, 18).
+4/19/2023 2:32:47 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:47 PM: Player with name: Player moved to new position (8, 11)
+4/19/2023 2:32:48 PM: Enemy's turn.
+4/19/2023 2:32:48 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:48 PM: Player with name: Player moved to new position (8, 12)
+4/19/2023 2:32:49 PM: Enemy's turn.
+4/19/2023 2:32:49 PM: Enemy moved to new position (15, 18).
+4/19/2023 2:32:49 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:49 PM: Player with name: Player moved to new position (8, 13)
+4/19/2023 2:32:50 PM: Enemy's turn.
+4/19/2023 2:32:51 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:51 PM: Player with name: Player moved to new position (8, 14)
+4/19/2023 2:32:51 PM: Enemy's turn.
+4/19/2023 2:32:51 PM: Enemy moved to new position (15, 17).
+4/19/2023 2:32:52 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:52 PM: Player with name: Player moved to new position (9, 14)
+4/19/2023 2:32:52 PM: Enemy's turn.
+4/19/2023 2:32:52 PM: Enemy moved to new position (14, 17).
+4/19/2023 2:32:53 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:54 PM: Enemy's turn.
+4/19/2023 2:32:54 PM: Enemy moved to new position (15, 17).
+4/19/2023 2:32:54 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:55 PM: Player with name: Player moved to new position (10, 14)
+4/19/2023 2:32:56 PM: Enemy's turn.
+4/19/2023 2:32:56 PM: Enemy moved to new position (14, 17).
+4/19/2023 2:32:56 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:32:58 PM: Player with name: Player moved to new position (11, 14)
+4/19/2023 2:32:59 PM: Enemy's turn.
+4/19/2023 2:32:59 PM: Enemy moved to new position (14, 16).
+4/19/2023 2:32:59 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:12 PM: You used Magic attack on Enemy
+4/19/2023 2:33:12 PM: Player attacked Enemy and dealt 36 damage.
+4/19/2023 2:33:12 PM: You attacked with Fire attack 36
+4/19/2023 2:33:13 PM: Enemy's turn.
+4/19/2023 2:33:13 PM: Enemy moved to new position (15, 16).
+4/19/2023 2:33:14 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:16 PM: Player with name: Player moved to new position (11, 15)
+4/19/2023 2:33:16 PM: Enemy's turn.
+4/19/2023 2:33:16 PM: Enemy moved to new position (16, 16).
+4/19/2023 2:33:17 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:17 PM: You picked up stone shield, + 3 defence.
+4/19/2023 2:33:17 PM: Removed an item at position (11, 16).
+4/19/2023 2:33:17 PM: Player picked up stone shield.
+4/19/2023 2:33:18 PM: Enemy's turn.
+4/19/2023 2:33:18 PM: Enemy moved to new position (16, 15).
+4/19/2023 2:33:18 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:18 PM: Player with name: Player moved to new position (12, 15)
+4/19/2023 2:33:19 PM: Enemy's turn.
+4/19/2023 2:33:19 PM: Enemy moved to new position (16, 16).
+4/19/2023 2:33:19 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:20 PM: Player with name: Player moved to new position (13, 15)
+4/19/2023 2:33:20 PM: Enemy's turn.
+4/19/2023 2:33:20 PM: Enemy moved to new position (16, 17).
+4/19/2023 2:33:21 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:21 PM: Player with name: Player moved to new position (14, 15)
+4/19/2023 2:33:21 PM: Enemy's turn.
+4/19/2023 2:33:21 PM: Enemy moved to new position (16, 18).
+4/19/2023 2:33:22 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:22 PM: Player with name: Player moved to new position (15, 15)
+4/19/2023 2:33:23 PM: Enemy's turn.
+4/19/2023 2:33:23 PM: Enemy picked up sword.
+4/19/2023 2:33:23 PM: Removed an item at position (17, 18).
+4/19/2023 2:33:23 PM: Enemy picked up sword.
+4/19/2023 2:33:23 PM: Enemy moved to new position (15, 18).
+4/19/2023 2:33:23 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:23 PM: Player with name: Player moved to new position (15, 16)
+4/19/2023 2:33:24 PM: Enemy's turn.
+4/19/2023 2:33:24 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:25 PM: Player with name: Player moved to new position (15, 17)
+4/19/2023 2:33:25 PM: Enemy's turn.
+4/19/2023 2:33:25 PM: Enemy attacked Player and dealt 23 damage.
+4/19/2023 2:33:25 PM: Enemy attacked 28
+4/19/2023 2:33:26 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:26 PM: Player attacked Enemy and dealt 36 damage.
+4/19/2023 2:33:26 PM: You attacked 36
+4/19/2023 2:33:27 PM: Enemy's turn.
+4/19/2023 2:33:27 PM: Enemy attacked Player and dealt 23 damage.
+4/19/2023 2:33:27 PM: Enemy attacked 28
+4/19/2023 2:33:28 PM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/19/2023 2:33:28 PM: Player attacked Enemy and dealt 36 damage.
+4/19/2023 2:33:28 PM: Enemy was defeated!
+4/19/2023 2:33:28 PM: You attacked 36
+4/19/2023 2:33:28 PM: Congratulations. You won.
+4/20/2023 9:38:35 AM: World with X: 20 and Y: 20 has been created
+4/20/2023 9:38:35 AM: Player with name: Player, health: 100, damage: 2, energy: 30 is created
+4/20/2023 9:38:35 AM: Enemy with name: Enemy, health: 100, damage: 10 is created
+4/20/2023 9:38:35 AM: Added a Player at position (2, 2).
+4/20/2023 9:38:35 AM: Added a Enemy at position (15, 15).
+4/20/2023 9:38:35 AM: Added an attack item knife at position (3, 7).
+4/20/2023 9:38:35 AM: Added an attack item sword at position (17, 2).
+4/20/2023 9:38:35 AM: Added an attack item mace at position (10, 5).
+4/20/2023 9:38:35 AM: Added an attack item knife at position (4, 15).
+4/20/2023 9:38:35 AM: Added an attack item sword at position (7, 11).
+4/20/2023 9:38:35 AM: Added an attack item mace at position (10, 11).
+4/20/2023 9:38:35 AM: Added a world object wooden shield at position (5, 6).
+4/20/2023 9:38:35 AM: Added a world object stone shield at position (1, 5).
+4/20/2023 9:38:35 AM: Added a world object iron shield at position (2, 17).
+4/20/2023 9:38:35 AM: Added a world object wooden shield at position (14, 1).
+4/20/2023 9:38:35 AM: Added a world object stone shield at position (18, 2).
+4/20/2023 9:38:35 AM: Added a world object iron shield at position (8, 18).
+4/20/2023 9:38:36 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:41 AM: Player with name: Player moved to new position (3, 2)
+4/20/2023 9:38:41 AM: Enemy's turn.
+4/20/2023 9:38:41 AM: Enemy moved to new position (14, 15).
+4/20/2023 9:38:42 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:42 AM: Player with name: Player moved to new position (4, 2)
+4/20/2023 9:38:43 AM: Enemy's turn.
+4/20/2023 9:38:43 AM: Enemy moved to new position (13, 15).
+4/20/2023 9:38:43 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:44 AM: Player with name: Player moved to new position (5, 2)
+4/20/2023 9:38:44 AM: Enemy's turn.
+4/20/2023 9:38:44 AM: Enemy moved to new position (14, 15).
+4/20/2023 9:38:45 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:46 AM: Player with name: Player moved to new position (6, 2)
+4/20/2023 9:38:46 AM: Enemy's turn.
+4/20/2023 9:38:46 AM: Enemy moved to new position (14, 14).
+4/20/2023 9:38:47 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:48 AM: Player with name: Player moved to new position (7, 2)
+4/20/2023 9:38:48 AM: Enemy's turn.
+4/20/2023 9:38:48 AM: Enemy moved to new position (13, 14).
+4/20/2023 9:38:49 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:51 AM: Player with name: Player moved to new position (8, 2)
+4/20/2023 9:38:52 AM: Enemy's turn.
+4/20/2023 9:38:52 AM: Enemy moved to new position (13, 13).
+4/20/2023 9:38:53 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:53 AM: Player with name: Player moved to new position (9, 2)
+4/20/2023 9:38:53 AM: Enemy's turn.
+4/20/2023 9:38:54 AM: Enemy moved to new position (13, 12).
+4/20/2023 9:38:54 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:55 AM: Player with name: Player moved to new position (9, 3)
+4/20/2023 9:38:56 AM: Enemy's turn.
+4/20/2023 9:38:56 AM: Enemy moved to new position (14, 12).
+4/20/2023 9:38:56 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:57 AM: Player with name: Player moved to new position (9, 4)
+4/20/2023 9:38:57 AM: Enemy's turn.
+4/20/2023 9:38:57 AM: Enemy moved to new position (14, 11).
+4/20/2023 9:38:58 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:58 AM: Player with name: Player moved to new position (9, 5)
+4/20/2023 9:38:59 AM: Enemy's turn.
+4/20/2023 9:38:59 AM: Enemy moved to new position (13, 11).
+4/20/2023 9:38:59 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:38:59 AM: You picked up mace, + 8 damage.
+4/20/2023 9:38:59 AM: Removed an item at position (10, 5).
+4/20/2023 9:38:59 AM: Player picked up mace.
+4/20/2023 9:39:00 AM: Enemy's turn.
+4/20/2023 9:39:00 AM: Enemy moved to new position (13, 12).
+4/20/2023 9:39:01 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:39:02 AM: Player with name: Player moved to new position (9, 6)
+4/20/2023 9:39:03 AM: Enemy's turn.
+4/20/2023 9:39:03 AM: Enemy moved to new position (12, 12).
+4/20/2023 9:39:04 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:39:04 AM: Player with name: Player moved to new position (9, 7)
+4/20/2023 9:39:05 AM: Enemy's turn.
+4/20/2023 9:39:05 AM: Enemy moved to new position (12, 13).
+4/20/2023 9:39:05 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:39:05 AM: Player with name: Player moved to new position (9, 8)
+4/20/2023 9:39:06 AM: Enemy's turn.
+4/20/2023 9:39:06 AM: Enemy moved to new position (12, 12).
+4/20/2023 9:39:07 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:39:07 AM: Player with name: Player moved to new position (9, 9)
+4/20/2023 9:39:07 AM: Enemy's turn.
+4/20/2023 9:39:07 AM: Enemy moved to new position (13, 12).
+4/20/2023 9:39:08 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:39:09 AM: Player with name: Player moved to new position (9, 10)
+4/20/2023 9:39:10 AM: Enemy's turn.
+4/20/2023 9:39:10 AM: Enemy moved to new position (12, 12).
+4/20/2023 9:39:10 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:39:11 AM: Player with name: Player moved to new position (9, 11)
+4/20/2023 9:39:11 AM: Enemy's turn.
+4/20/2023 9:39:11 AM: Enemy moved to new position (13, 12).
+4/20/2023 9:39:12 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:39:12 AM: You picked up mace, + 8 damage.
+4/20/2023 9:39:12 AM: Removed an item at position (10, 11).
+4/20/2023 9:39:12 AM: Player picked up mace.
+4/20/2023 9:39:13 AM: Enemy's turn.
+4/20/2023 9:39:13 AM: Enemy moved to new position (12, 12).
+4/20/2023 9:39:13 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:39:15 AM: You used Magic attack on Enemy
+4/20/2023 9:39:15 AM: Player attacked Enemy and dealt 18 damage.
+4/20/2023 9:39:15 AM: You attacked with Fire attack 18
+4/20/2023 9:39:15 AM: Enemy's turn.
+4/20/2023 9:39:15 AM: Enemy moved to new position (11, 12).
+4/20/2023 9:39:16 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:39:20 AM: Player with name: Player moved to new position (10, 11)
+4/20/2023 9:39:20 AM: Enemy's turn.
+4/20/2023 9:39:21 AM: Enemy moved to new position (11, 13).
+4/20/2023 9:39:21 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:39:22 AM: Player with name: Player moved to new position (10, 12)
+4/20/2023 9:39:22 AM: Enemy's turn.
+4/20/2023 9:39:22 AM: Enemy moved to new position (10, 13).
+4/20/2023 9:39:23 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:08 AM: World with X: 20 and Y: 20 has been created
+4/20/2023 9:40:08 AM: Player with name: Player, health: 100, damage: 2, energy: 30 is created
+4/20/2023 9:40:08 AM: Enemy with name: Enemy, health: 100, damage: 10 is created
+4/20/2023 9:40:08 AM: Added a Player at position (2, 2).
+4/20/2023 9:40:08 AM: Added a Enemy at position (15, 15).
+4/20/2023 9:40:08 AM: Added an attack item knife at position (13, 3).
+4/20/2023 9:40:08 AM: Added an attack item sword at position (5, 4).
+4/20/2023 9:40:08 AM: Added an attack item mace at position (5, 10).
+4/20/2023 9:40:08 AM: Added an attack item knife at position (15, 5).
+4/20/2023 9:40:08 AM: Added an attack item sword at position (17, 11).
+4/20/2023 9:40:08 AM: Added an attack item mace at position (3, 3).
+4/20/2023 9:40:08 AM: Added a world object wooden shield at position (15, 11).
+4/20/2023 9:40:08 AM: Added a world object stone shield at position (15, 17).
+4/20/2023 9:40:08 AM: Added a world object iron shield at position (11, 9).
+4/20/2023 9:40:08 AM: Added a world object wooden shield at position (9, 16).
+4/20/2023 9:40:08 AM: Added a world object stone shield at position (16, 12).
+4/20/2023 9:40:08 AM: Added a world object iron shield at position (7, 2).
+4/20/2023 9:40:08 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:09 AM: Player with name: Player moved to new position (3, 2)
+4/20/2023 9:40:09 AM: Enemy's turn.
+4/20/2023 9:40:09 AM: Enemy moved to new position (15, 16).
+4/20/2023 9:40:10 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:10 AM: Player with name: Player moved to new position (4, 2)
+4/20/2023 9:40:11 AM: Enemy's turn.
+4/20/2023 9:40:11 AM: Enemy picked up stone shield.
+4/20/2023 9:40:11 AM: Removed an item at position (15, 17).
+4/20/2023 9:40:11 AM: Enemy picked up stone shield.
+4/20/2023 9:40:11 AM: Enemy moved to new position (15, 15).
+4/20/2023 9:40:11 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:15 AM: Player with name: Player moved to new position (5, 2)
+4/20/2023 9:40:16 AM: Enemy's turn.
+4/20/2023 9:40:16 AM: Enemy moved to new position (15, 16).
+4/20/2023 9:40:16 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:16 AM: Player with name: Player moved to new position (6, 2)
+4/20/2023 9:40:17 AM: Enemy's turn.
+4/20/2023 9:40:17 AM: Enemy moved to new position (15, 15).
+4/20/2023 9:40:17 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:18 AM: You picked up iron shield, + 6 defence.
+4/20/2023 9:40:18 AM: Removed an item at position (7, 2).
+4/20/2023 9:40:18 AM: Player picked up iron shield.
+4/20/2023 9:40:18 AM: Enemy's turn.
+4/20/2023 9:40:18 AM: Enemy moved to new position (16, 15).
+4/20/2023 9:40:18 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:18 AM: Player with name: Player moved to new position (6, 3)
+4/20/2023 9:40:19 AM: Enemy's turn.
+4/20/2023 9:40:19 AM: Enemy moved to new position (17, 15).
+4/20/2023 9:40:19 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:19 AM: Player with name: Player moved to new position (6, 4)
+4/20/2023 9:40:20 AM: Enemy's turn.
+4/20/2023 9:40:20 AM: Enemy moved to new position (17, 14).
+4/20/2023 9:40:20 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:20 AM: You picked up sword, + 18 damage.
+4/20/2023 9:40:20 AM: Removed an item at position (5, 4).
+4/20/2023 9:40:20 AM: Player picked up sword.
+4/20/2023 9:40:20 AM: Enemy's turn.
+4/20/2023 9:40:20 AM: Enemy moved to new position (17, 15).
+4/20/2023 9:40:21 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:21 AM: Player with name: Player moved to new position (6, 5)
+4/20/2023 9:40:21 AM: Enemy's turn.
+4/20/2023 9:40:21 AM: Enemy moved to new position (17, 14).
+4/20/2023 9:40:21 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:22 AM: Player with name: Player moved to new position (6, 6)
+4/20/2023 9:40:22 AM: Enemy's turn.
+4/20/2023 9:40:22 AM: Enemy moved to new position (17, 15).
+4/20/2023 9:40:23 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:23 AM: Player with name: Player moved to new position (6, 7)
+4/20/2023 9:40:23 AM: Enemy's turn.
+4/20/2023 9:40:23 AM: Enemy moved to new position (17, 16).
+4/20/2023 9:40:23 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:24 AM: Player with name: Player moved to new position (6, 8)
+4/20/2023 9:40:24 AM: Enemy's turn.
+4/20/2023 9:40:24 AM: Enemy moved to new position (16, 16).
+4/20/2023 9:40:24 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:25 AM: Player with name: Player moved to new position (6, 9)
+4/20/2023 9:40:25 AM: Enemy's turn.
+4/20/2023 9:40:25 AM: Enemy moved to new position (16, 17).
+4/20/2023 9:40:25 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:26 AM: Player with name: Player moved to new position (6, 10)
+4/20/2023 9:40:26 AM: Enemy's turn.
+4/20/2023 9:40:26 AM: Enemy moved to new position (15, 17).
+4/20/2023 9:40:26 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:26 AM: You picked up mace, + 8 damage.
+4/20/2023 9:40:26 AM: Removed an item at position (5, 10).
+4/20/2023 9:40:26 AM: Player picked up mace.
+4/20/2023 9:40:27 AM: Enemy's turn.
+4/20/2023 9:40:27 AM: Enemy moved to new position (15, 16).
+4/20/2023 9:40:27 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:27 AM: Player with name: Player moved to new position (6, 11)
+4/20/2023 9:40:28 AM: Enemy's turn.
+4/20/2023 9:40:28 AM: Enemy moved to new position (15, 15).
+4/20/2023 9:40:28 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:28 AM: Player with name: Player moved to new position (7, 11)
+4/20/2023 9:40:29 AM: Enemy's turn.
+4/20/2023 9:40:29 AM: Enemy moved to new position (15, 14).
+4/20/2023 9:40:29 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:29 AM: Player with name: Player moved to new position (8, 11)
+4/20/2023 9:40:30 AM: Enemy's turn.
+4/20/2023 9:40:30 AM: Enemy moved to new position (14, 14).
+4/20/2023 9:40:30 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:30 AM: Player with name: Player moved to new position (9, 11)
+4/20/2023 9:40:31 AM: Enemy's turn.
+4/20/2023 9:40:31 AM: Enemy moved to new position (13, 14).
+4/20/2023 9:40:31 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:32 AM: Player with name: Player moved to new position (10, 11)
+4/20/2023 9:40:32 AM: Enemy's turn.
+4/20/2023 9:40:32 AM: Enemy moved to new position (13, 15).
+4/20/2023 9:40:32 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:33 AM: Player with name: Player moved to new position (11, 11)
+4/20/2023 9:40:33 AM: Enemy's turn.
+4/20/2023 9:40:33 AM: Enemy moved to new position (13, 16).
+4/20/2023 9:40:33 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:33 AM: Player with name: Player moved to new position (12, 11)
+4/20/2023 9:40:34 AM: Enemy's turn.
+4/20/2023 9:40:34 AM: Enemy moved to new position (13, 15).
+4/20/2023 9:40:34 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:34 AM: Player with name: Player moved to new position (13, 11)
+4/20/2023 9:40:35 AM: Enemy's turn.
+4/20/2023 9:40:35 AM: Enemy moved to new position (13, 16).
+4/20/2023 9:40:35 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:35 AM: Player with name: Player moved to new position (13, 12)
+4/20/2023 9:40:35 AM: Enemy's turn.
+4/20/2023 9:40:35 AM: Enemy moved to new position (14, 16).
+4/20/2023 9:40:36 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:36 AM: Player with name: Player moved to new position (14, 12)
+4/20/2023 9:40:36 AM: Enemy's turn.
+4/20/2023 9:40:36 AM: Enemy moved to new position (14, 17).
+4/20/2023 9:40:37 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:37 AM: Player with name: Player moved to new position (15, 12)
+4/20/2023 9:40:37 AM: Enemy's turn.
+4/20/2023 9:40:37 AM: Enemy moved to new position (14, 16).
+4/20/2023 9:40:37 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:38 AM: Enemy's turn.
+4/20/2023 9:40:38 AM: Enemy moved to new position (15, 16).
+4/20/2023 9:40:38 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:39 AM: You picked up wooden shield, + 3 defence.
+4/20/2023 9:40:39 AM: Removed an item at position (15, 11).
+4/20/2023 9:40:39 AM: Player picked up wooden shield.
+4/20/2023 9:40:39 AM: You picked up stone shield, + 3 defence.
+4/20/2023 9:40:39 AM: Removed an item at position (16, 12).
+4/20/2023 9:40:39 AM: Player picked up stone shield.
+4/20/2023 9:40:39 AM: Enemy's turn.
+4/20/2023 9:40:39 AM: Enemy moved to new position (14, 16).
+4/20/2023 9:40:40 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:42 AM: Player with name: Player moved to new position (15, 13)
+4/20/2023 9:40:42 AM: Enemy's turn.
+4/20/2023 9:40:42 AM: Enemy moved to new position (15, 16).
+4/20/2023 9:40:42 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:44 AM: Player with name: Player moved to new position (15, 14)
+4/20/2023 9:40:45 AM: Enemy's turn.
+4/20/2023 9:40:45 AM: Enemy moved to new position (15, 15).
+4/20/2023 9:40:45 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:45 AM: You used Magic attack on Enemy
+4/20/2023 9:40:45 AM: Player attacked Enemy and dealt 24 damage.
+4/20/2023 9:40:45 AM: You attacked with Fire attack 28
+4/20/2023 9:40:46 AM: Enemy's turn.
+4/20/2023 9:40:46 AM: Enemy attacked Player and dealt 0 damage.
+4/20/2023 9:40:46 AM: Enemy attacked 10
+4/20/2023 9:40:46 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:47 AM: Player attacked Enemy and dealt 24 damage.
+4/20/2023 9:40:47 AM: You attacked 28
+4/20/2023 9:40:47 AM: Enemy's turn.
+4/20/2023 9:40:47 AM: Enemy attacked Player and dealt 0 damage.
+4/20/2023 9:40:47 AM: Enemy attacked 10
+4/20/2023 9:40:48 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:48 AM: Player attacked Enemy and dealt 24 damage.
+4/20/2023 9:40:48 AM: You attacked 28
+4/20/2023 9:40:48 AM: Enemy's turn.
+4/20/2023 9:40:48 AM: Enemy attacked Player and dealt 0 damage.
+4/20/2023 9:40:48 AM: Enemy attacked 10
+4/20/2023 9:40:49 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 9:40:49 AM: You used Magic attack on Enemy
+4/20/2023 9:40:49 AM: Player attacked Enemy and dealt 24 damage.
+4/20/2023 9:40:49 AM: You attacked with Fire attack 28
+4/20/2023 9:40:49 AM: Congratulations. You won.
+4/20/2023 10:24:43 AM: World with X: 20 and Y: 20 has been created
+4/20/2023 10:24:43 AM: Player with name: Player, health: 100, damage: 2, energy: 30 is created
+4/20/2023 10:24:43 AM: Enemy with name: Enemy, health: 100, damage: 10 is created
+4/20/2023 10:24:43 AM: Added a Player at position (2, 2).
+4/20/2023 10:24:43 AM: Added a Enemy at position (15, 15).
+4/20/2023 10:24:43 AM: Added an attack item knife at position (8, 16).
+4/20/2023 10:24:43 AM: Added an attack item sword at position (17, 16).
+4/20/2023 10:24:43 AM: Added an attack item mace at position (3, 9).
+4/20/2023 10:24:43 AM: Added an attack item knife at position (10, 3).
+4/20/2023 10:24:43 AM: Added an attack item sword at position (8, 3).
+4/20/2023 10:24:43 AM: Added an attack item mace at position (6, 15).
+4/20/2023 10:24:43 AM: Added a world object wooden shield at position (4, 2).
+4/20/2023 10:24:43 AM: Added a world object stone shield at position (10, 3).
+4/20/2023 10:24:43 AM: Added a world object iron shield at position (15, 8).
+4/20/2023 10:24:43 AM: Added a world object wooden shield at position (10, 16).
+4/20/2023 10:24:43 AM: Added a world object stone shield at position (6, 13).
+4/20/2023 10:24:43 AM: Added a world object iron shield at position (18, 9).
+4/20/2023 10:24:43 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:08 AM: Player with name: Player moved to new position (2, 3)
+4/20/2023 10:25:08 AM: Enemy's turn.
+4/20/2023 10:25:08 AM: Enemy moved to new position (15, 16).
+4/20/2023 10:25:09 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:09 AM: Player with name: Player moved to new position (3, 3)
+4/20/2023 10:25:09 AM: Enemy's turn.
+4/20/2023 10:25:09 AM: Enemy moved to new position (15, 15).
+4/20/2023 10:25:09 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:10 AM: Player with name: Player moved to new position (4, 3)
+4/20/2023 10:25:10 AM: Enemy's turn.
+4/20/2023 10:25:10 AM: Enemy moved to new position (15, 16).
+4/20/2023 10:25:10 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:28 AM: Player with name: Player moved to new position (5, 3)
+4/20/2023 10:25:28 AM: Enemy's turn.
+4/20/2023 10:25:28 AM: Enemy moved to new position (16, 16).
+4/20/2023 10:25:29 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:29 AM: Player with name: Player moved to new position (6, 3)
+4/20/2023 10:25:29 AM: Enemy's turn.
+4/20/2023 10:25:29 AM: Enemy picked up sword.
+4/20/2023 10:25:29 AM: Removed an item at position (17, 16).
+4/20/2023 10:25:29 AM: Enemy picked up sword.
+4/20/2023 10:25:29 AM: Enemy moved to new position (16, 17).
+4/20/2023 10:25:29 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:29 AM: Player with name: Player moved to new position (7, 3)
+4/20/2023 10:25:30 AM: Enemy's turn.
+4/20/2023 10:25:30 AM: Enemy moved to new position (16, 16).
+4/20/2023 10:25:30 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:31 AM: You picked up sword, + 18 damage.
+4/20/2023 10:25:31 AM: Removed an item at position (8, 3).
+4/20/2023 10:25:31 AM: Player picked up sword.
+4/20/2023 10:25:31 AM: Enemy's turn.
+4/20/2023 10:25:31 AM: Enemy moved to new position (16, 17).
+4/20/2023 10:25:31 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:34 AM: Player with name: Player moved to new position (7, 4)
+4/20/2023 10:25:34 AM: Enemy's turn.
+4/20/2023 10:25:34 AM: Enemy moved to new position (15, 17).
+4/20/2023 10:25:34 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:35 AM: Player with name: Player moved to new position (8, 4)
+4/20/2023 10:25:35 AM: Enemy's turn.
+4/20/2023 10:25:35 AM: Enemy moved to new position (15, 16).
+4/20/2023 10:25:35 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:35 AM: Player with name: Player moved to new position (8, 3)
+4/20/2023 10:25:36 AM: Enemy's turn.
+4/20/2023 10:25:36 AM: Enemy moved to new position (15, 17).
+4/20/2023 10:25:36 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:36 AM: Player with name: Player moved to new position (9, 3)
+4/20/2023 10:25:36 AM: Enemy's turn.
+4/20/2023 10:25:36 AM: Enemy moved to new position (15, 16).
+4/20/2023 10:25:36 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:36 AM: You picked up knife, + 13 damage.
+4/20/2023 10:25:36 AM: Removed an item at position (10, 3).
+4/20/2023 10:25:36 AM: Player picked up knife.
+4/20/2023 10:25:36 AM: You picked up stone shield, + 4 defence.
+4/20/2023 10:25:36 AM: Removed an item at position (10, 3).
+4/20/2023 10:25:36 AM: Player picked up stone shield.
+4/20/2023 10:25:37 AM: Enemy's turn.
+4/20/2023 10:25:37 AM: Enemy moved to new position (15, 17).
+4/20/2023 10:25:37 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:39 AM: Player with name: Player moved to new position (9, 4)
+4/20/2023 10:25:39 AM: Enemy's turn.
+4/20/2023 10:25:39 AM: Enemy moved to new position (15, 16).
+4/20/2023 10:25:39 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:39 AM: Player with name: Player moved to new position (9, 5)
+4/20/2023 10:25:40 AM: Enemy's turn.
+4/20/2023 10:25:40 AM: Enemy moved to new position (14, 16).
+4/20/2023 10:25:40 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:40 AM: Player with name: Player moved to new position (9, 6)
+4/20/2023 10:25:40 AM: Enemy's turn.
+4/20/2023 10:25:40 AM: Enemy moved to new position (14, 15).
+4/20/2023 10:25:40 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:40 AM: Player with name: Player moved to new position (9, 7)
+4/20/2023 10:25:41 AM: Enemy's turn.
+4/20/2023 10:25:41 AM: Enemy moved to new position (14, 16).
+4/20/2023 10:25:41 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:41 AM: Player with name: Player moved to new position (9, 8)
+4/20/2023 10:25:41 AM: Enemy's turn.
+4/20/2023 10:25:41 AM: Enemy moved to new position (14, 15).
+4/20/2023 10:25:42 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:42 AM: Player with name: Player moved to new position (9, 9)
+4/20/2023 10:25:42 AM: Enemy's turn.
+4/20/2023 10:25:42 AM: Enemy moved to new position (13, 15).
+4/20/2023 10:25:42 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:42 AM: Player with name: Player moved to new position (9, 10)
+4/20/2023 10:25:43 AM: Enemy's turn.
+4/20/2023 10:25:43 AM: Enemy moved to new position (13, 16).
+4/20/2023 10:25:43 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:43 AM: Player with name: Player moved to new position (9, 11)
+4/20/2023 10:25:43 AM: Enemy's turn.
+4/20/2023 10:25:43 AM: Enemy moved to new position (12, 16).
+4/20/2023 10:25:43 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:43 AM: Player with name: Player moved to new position (9, 12)
+4/20/2023 10:25:44 AM: Enemy's turn.
+4/20/2023 10:25:44 AM: Enemy moved to new position (12, 17).
+4/20/2023 10:25:44 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:44 AM: Player with name: Player moved to new position (9, 13)
+4/20/2023 10:25:44 AM: Enemy's turn.
+4/20/2023 10:25:44 AM: Enemy moved to new position (12, 18).
+4/20/2023 10:25:45 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:45 AM: Player with name: Player moved to new position (9, 14)
+4/20/2023 10:25:45 AM: Enemy's turn.
+4/20/2023 10:25:45 AM: Enemy moved to new position (11, 18).
+4/20/2023 10:25:45 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:45 AM: Player with name: Player moved to new position (9, 15)
+4/20/2023 10:25:45 AM: Enemy's turn.
+4/20/2023 10:25:46 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:46 AM: Player with name: Player moved to new position (9, 16)
+4/20/2023 10:25:46 AM: Enemy's turn.
+4/20/2023 10:25:46 AM: Enemy moved to new position (10, 18).
+4/20/2023 10:25:46 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:46 AM: You picked up knife, + 13 damage.
+4/20/2023 10:25:46 AM: Removed an item at position (8, 16).
+4/20/2023 10:25:46 AM: Player picked up knife.
+4/20/2023 10:25:46 AM: You picked up wooden shield, + 2 defence.
+4/20/2023 10:25:46 AM: Removed an item at position (10, 16).
+4/20/2023 10:25:46 AM: Player picked up wooden shield.
+4/20/2023 10:25:47 AM: Enemy's turn.
+4/20/2023 10:25:47 AM: Enemy moved to new position (10, 17).
+4/20/2023 10:25:47 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:25:57 AM: Player with name: Player moved to new position (9, 15)
+4/20/2023 10:25:58 AM: Enemy's turn.
+4/20/2023 10:25:58 AM: Enemy moved to new position (9, 17).
+4/20/2023 10:25:58 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:26:04 AM: You used Magic attack on Enemy
+4/20/2023 10:26:04 AM: Player attacked Enemy and dealt 46 damage.
+4/20/2023 10:26:04 AM: You attacked with Fire attack 46
+4/20/2023 10:26:04 AM: Enemy's turn.
+4/20/2023 10:26:04 AM: Enemy moved to new position (8, 17).
+4/20/2023 10:26:05 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:26:07 AM: Player with name: Player moved to new position (9, 16)
+4/20/2023 10:26:07 AM: Enemy's turn.
+4/20/2023 10:26:07 AM: Enemy moved to new position (8, 16).
+4/20/2023 10:26:08 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:26:08 AM: Player with name: Player moved to new position (9, 17)
+4/20/2023 10:26:08 AM: Enemy's turn.
+4/20/2023 10:26:08 AM: Enemy moved to new position (8, 15).
+4/20/2023 10:26:08 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:26:08 AM: Player with name: Player moved to new position (9, 16)
+4/20/2023 10:26:09 AM: Enemy's turn.
+4/20/2023 10:26:09 AM: Enemy moved to new position (8, 16).
+4/20/2023 10:26:09 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:26:09 AM: Player with name: Player moved to new position (9, 15)
+4/20/2023 10:26:09 AM: Enemy's turn.
+4/20/2023 10:26:09 AM: Enemy moved to new position (8, 17).
+4/20/2023 10:26:10 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:26:10 AM: Player with name: Player moved to new position (9, 16)
+4/20/2023 10:26:10 AM: Enemy's turn.
+4/20/2023 10:26:10 AM: Enemy moved to new position (9, 17).
+4/20/2023 10:26:10 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:26:11 AM: Enemy's turn.
+4/20/2023 10:26:11 AM: Enemy attacked Player and dealt 22 damage.
+4/20/2023 10:26:11 AM: Enemy attacked 28
+4/20/2023 10:26:11 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:26:11 AM: Player attacked Enemy and dealt 46 damage.
+4/20/2023 10:26:11 AM: You attacked 46
+4/20/2023 10:26:11 AM: Enemy's turn.
+4/20/2023 10:26:11 AM: Enemy attacked Player and dealt 22 damage.
+4/20/2023 10:26:11 AM: Enemy attacked 28
+4/20/2023 10:26:12 AM: Player's turn. Choose direction (w, a, s, d), press 'f' to attack,
+press 't' to use magic attack within 5 cells, or 'e' to pick up items: 
+4/20/2023 10:26:12 AM: Player attacked Enemy and dealt 46 damage.
+4/20/2023 10:26:12 AM: Enemy was defeated!
+4/20/2023 10:26:12 AM: You attacked 46
+4/20/2023 10:26:12 AM: Congratulations. You won.
